@@ -1,6 +1,6 @@
 <h1>Edir Lucas Icety</h1>
 
-<h3>👋 Welcome to my profile.</h1>
+<h3>👋 Welcome to my profile.</h3>
 
 I'm Edir Lucas Icety, I'm studying with the aim of learn more and more about Java.
 
