@@ -2,9 +2,8 @@
 
 <h3>👋 Welcome to my profile.</h1>
 
-I'm Edir Lucas Icety, currently I'm focused on research on web development and studying every day with the aim of learning more about Java and Python.
+I'm Edir Lucas Icety, I'm studying with the aim of lear more and more about Java.
 
-- 🔭 I’m currently working on researching collaborative ways to contribute to a web tool.
-- 🌱 I’m currently learning Java 8, Python, JS...
-- 👯 I’m looking to collaborate on web development.
-- ⚡ Technologies: Spring, Vue, Materialize, Bootstrap, HTML5, CSS3..
+- 🌱 I'm currently working on the research of collaborative aspects of the user to contribute to the validation of collaborative requirements.
+-  I'm learning Java 8, Python, JS.
+- ⚡ Technologies: Spring, Vue, JPA, Materialize, Bootstrap, HTML5, CSS3..
